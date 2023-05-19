@@ -49,6 +49,7 @@ body {
     width: 380px;
     font-size: 35px;
     
+    
 }
 
 .output {
@@ -77,6 +78,8 @@ body {
     align-items: center;
     grid-column: span 3;
     height: 50px;
+    background-color: darkgreen !important;
+
     
     
 }
@@ -88,5 +91,14 @@ body {
         grid-template-rows: none;
         
     }
+}
+
+.red {
+    background-color: red !important;
+}
+
+h1 {
+    color: aqua;
+    font-weight: bold;
 }
 

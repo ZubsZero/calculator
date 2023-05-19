@@ -8,7 +8,7 @@ let Result=()=>{
     result.value=eval(result.value)
  }
  catch(err){
-    alert("Type in number")
+    alert("type in a valid argument")
  }
 }
 
