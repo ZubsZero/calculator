@@ -79,6 +79,7 @@ body {
     grid-column: span 3;
     height: 50px;
     background-color: darkgreen !important;
+    color: black !important
 
     
     
@@ -95,6 +96,7 @@ body {
 
 .red {
     background-color: red !important;
+    color: black !important;
 }
 
 h1 {
@@ -102,3 +104,28 @@ h1 {
     font-weight: bold;
 }
 
+.add {
+    background-color: yellow !important;
+    color: black !important;
+}
+
+.subtract {
+    background-color: yellow !important;
+    color: black !important;
+}
+
+
+.multiply {
+    background-color: yellow  !important;
+    color: black !important;
+}
+
+.point {
+    background-color: yellow !important;
+    color: black !important;
+}
+
+.divide {
+    background-color: yellow !important;
+    color: black !important;
+}
